@@ -5,7 +5,7 @@
   This website showcases the Food Lover Restaurant, a haven for food enthusiasts seeking delicious meals from around the world. 
 
 
-  <a href="https://omar-alabyadh.github.io/Portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://omar-alabyadh.github.io/Food-Lover-Restaurant/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
